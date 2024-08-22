@@ -18,6 +18,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 const corsOptions = {
             origin: 'https://job-hunt-portal.vercel.app',
+            methods:["POST","GET"],
             credentials: true
 }
 app.use(cors(corsOptions));
