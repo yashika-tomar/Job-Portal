@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 const corsOptions = {
-            origin: 'https://job-hunt-tau-ochre.vercel.app/',
+            origin: 'https://job-hunt-portal.vercel.app',
             credentials: true
 }
 app.use(cors(corsOptions));
