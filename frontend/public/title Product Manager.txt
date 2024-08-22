@@ -1,0 +1,119 @@
+title:" Product Manager"
+description:"As a Product Manager at JustPay, you will collaborate closely with eng…"
+requirements:Array (5)
+"Strong product management experience"
+" Proven ability to define product vision and strategy"
+" Excellent analytical and problem-solving skills"
+" Strong communication and collaboration skills "
+" Understanding of agile methodologies"
+salary:18
+experienceLevel:5
+location:"Bangalore"
+jobType:"Full-time"
+position:3
+
+
+
+
+title"Data Analyst"
+description"We are seeking a Data Analyst to extract insights from complex data se…"
+requirements
+"Analytical skills"
+" Proficiency in SQL"
+" Python"
+" Data visualization tools"
+" Excel"
+salary8.5
+experienceLevel2
+location"Mumbai"
+jobType"Full-Time"
+position12
+
+
+title:"Salesforce Engineer"
+description:"We are seeking a Salesforce Engineer to design, develop, and maintain …"
+
+requirements
+"Strong Apex skill"
+
+" Visualforce"
+
+" Lightening component skill"
+
+" Salesforce Developer certificate"
+salary6
+experienceLevel1
+location"Chennai"
+jobType"Full-Time"
+position18
+
+
+
+
+
+title
+"UI/UX Designer"
+description
+"We are seeking a talented UI/UX Designer to create exceptional user ex…"
+requirements
+" A portfolio of professional UI / UX design work"
+" Up-to-date knowledge of design software like Adobe Illustrator and Fi…"
+" Excellent written and verbal communication skills "
+" Multi-tasking and time-management skills"
+salary1.2
+experienceLevel1
+location"Remote"
+jobType"Part-Time"
+position5
+
+
+
+title
+"Software Developer"
+description
+"Justpay is seeking a talented Software Engineer to join our product de…"
+requirements
+"Proficiency in programming languages (Java, Python, JavaScript). Exper…"
+responsibilities
+"Develop and maintain software applications. Collaborate with product m…"
+qualifications
+"Bachelor's degree in Computer Science or related field"
+jobNiche
+"Software Development"
+salary
+"12 LPA"
+experienceLevel
+2
+location
+"Delhi"
+jobType
+"Full-Time"
+position
+1
+
+title
+"Senior Data Scientist"
+bio
+"Join our innovative team building cutting-edge web experiences."
+description
+"Adobe is seeking a talented Data Scientist to join our team and help u…"
+requirements
+"Master's degree in Statistics, Computer Science, Mathematics, or a rel…"
+responsibilities
+"Leverage statistical and machine learning techniques to analyze large …"
+qualifications
+"Master's degree in Statistics, Computer Science, Mathematics, or a rel…"
+jobNiche
+"Data Scientist"
+salary
+"24 LPA"
+experienceLevel
+"5"
+location
+"Bangalore"
+jobType
+"Full-Time"
+position
+2
+
+users:
